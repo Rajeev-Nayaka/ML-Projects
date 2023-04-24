@@ -2,8 +2,7 @@
 
 Hi All,
 
-My name is Rajeev, I have a total of 5 years of work experience in different domains related to analytics. I have now completed my masters and picking up projects from the web for analysis.
-If there is any recommendations or suggestions to be given, please feel free to reach out.
+My name is Rajeev. Demonstrated expertise in a Fortune 40 company, excelling at extracting critical business insights from data and translating them into strategic plans that drive results. Liaisoned between multiple business units, product owners and technology team while leveraging SQL, Python, Excel, Power Bi, Tableau and project management principles in analyzing the real meaning of data while leveraging advanced skills in quantitative analysis, business statistics, programming and data visualization to help translate business requirements into viable solutions.
 
 Regards,
 Rajeev
